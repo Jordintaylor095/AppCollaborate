@@ -28,13 +28,7 @@ export default function App() {
         </Route>
       </Switch>
       <div>
-        <center>
-          
-          <br />
-          <strong>
-            
-          </strong>
-        </center>
+        
       </div>
     </Router>
   );
